@@ -45,8 +45,9 @@ nav a:hover{
 }
 
 #farm{
-    width: 100%;
     margin: 85px 0px 0px 0px;
+    background-size: cover;
+    
 }
 
 #logo2{
